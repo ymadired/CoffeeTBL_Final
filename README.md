@@ -18,7 +18,7 @@ A SwiftUI iOS app that helps users quickly generate outreach emails by entering 
 
 The user enters:
 
-* Their name (used in the email closing)
+* Their name
 * A company
 * A role
 
